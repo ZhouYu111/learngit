@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called 
 Git is so simple.
 Creating a new branch is quick and simple.
+add merge.
 
